@@ -1,4 +1,4 @@
-# Gallery
+# Movies
 
 ## Project setup
 ```
